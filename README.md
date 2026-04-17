@@ -1,2 +1,8 @@
-# chai-cpp
-Simple C++ chai making program using functions and user input
+## Features
+- Takes user input (sugar, milk)
+- Uses function (makeChai)
+- Simple step-by-step output
+
+## How to Run
+1. Compile: g++ chai.cpp -o chai
+2. Run: ./chai
